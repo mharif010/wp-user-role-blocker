@@ -1,0 +1,1 @@
+# wp-user-role-blocker
